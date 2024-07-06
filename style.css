@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+    background-color: rgb(255, 168, 124);
+    border-radius: 50px;
+    width: 500px;
+    margin: auto;  
+    margin-top: 25px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ;
+}
+h2{
+    text-align: center;
+}
+img{
+    border:2px solid black;
+    border-radius: 25px;
+    width: 220px;
+    height: 220px;
+    margin-top: 25px;
+    margin: 30px;
+    margin-left: 120px;
+}
